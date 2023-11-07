@@ -1,1 +1,17 @@
-body
+body {
+  background-color: mistyrose;
+  text-align: center;
+}
+
+h1 {
+  color: black
+}
+.iorgut {
+  color: black
+}
+.morango {
+  color: black
+}
+p{
+  font-size: 30px;
+}
